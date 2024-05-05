@@ -1,3 +1,5 @@
+# Not Working Right Now
+
 import discord
 from discord.ext import commands
 from discord import interactions 
@@ -75,4 +77,4 @@ async def _now_playing(ctx: interactions):
         await ctx.send("Kein song spielt gerade.")
 
 # Run the bot
-bot.run('MTIyMzMyNTMwNTcyMTE5NjU0NA.GrvnDh.NOoAWpWH1zFAq81ho8a-R_OiZqQQ1KyWg4nVqI')
+bot.run('Your Token Here')
